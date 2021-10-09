@@ -9,7 +9,7 @@ print(name + ",\nEstamos recolhendo suas informações para uma pesquisa =) , co
 #Qual o nome do animal de estimação 
 pet = input("Qual é o nome do seu animal de estimação ?")
 
-print("Anotado :" + pet)
+print("Anotado : " + pet)
 print("========================================")
 print("Resultado da pesquisa .... ")
 print("Seu nome é :" + name + "\nNasceu em : " + city + "\nE teve seu animal de estimação chamado :" + pet)
