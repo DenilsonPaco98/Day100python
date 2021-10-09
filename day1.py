@@ -12,7 +12,5 @@ pet = input("Qual é o nome do seu animal de estimação ?")
 print("Anotado :" + pet)
 print("========================================")
 print("Resultado da pesquisa .... ")
-print("\n")
-
 print("Seu nome é :" + name + "\nNasceu em : " + city + "\nE teve seu animal de estimação chamado :" + pet)
 
