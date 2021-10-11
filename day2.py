@@ -20,7 +20,7 @@ one = round(conta_final,2)
 one = "{:.2f}".format(one)
 #finish = round(one,2)
 print("")
-print(f"Cada pessoa pagará o valor de : ${one} .")
+print(f"Cada pessoa pagará o valor de : ${one} ")
 
 print("")
 print("")
